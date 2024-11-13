@@ -1,4 +1,3 @@
-# Software-Developer
 <h1 align="center">Hi 👋, I'm Dipendra Chaturvedi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
