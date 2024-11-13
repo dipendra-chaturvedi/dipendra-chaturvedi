@@ -1,15 +1,18 @@
 <h1>Hi 👋, I'm Dipendra Chaturvedi</h1>
-<h3>A passionate Software developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrul01&label=Profile%20views&color=0e75b6&style=flat" alt="andrul01" /> </p>
 
-- 🔭 I’m currently working on [Atex Tech Forum](https://github.com/Andrul01/Atex)
 
-- 🌱 I’m currently learning **React , Javascript , Nodejs**
+-    Computer Science Student at G H Raisoni Group of Institues in Nagpur
+  
+- 🌱 I’m currently learning ** Javascript , React , Nodejs **
+  
+- 🔭 I’m currently working on [Atex - A tech forum](https://github.com/Andrul01/Atex)
 
 - 👨‍💻 All of my projects are available at [https://andrul01.github.io/myPortfolio/](https://andrul01.github.io/myPortfolio/)
 
 - 📫 How to reach me **dipendra2k23@gmail.com**
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrul01&show_icons=true&locale=en" alt="andrul01" /></p>
 <h3 align="left">My Skills:</h3>
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -55,4 +58,3 @@
 <p align="left">
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrul01&show_icons=true&locale=en&layout=compact" alt="andrul01" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrul01&show_icons=true&locale=en" alt="andrul01" /></p>
