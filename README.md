@@ -45,6 +45,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
 </p>
+<h3>Github Trophies</h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=andrul01" alt="andrul01" />
@@ -53,7 +54,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrul01&show_icons=true&locale=en&layout=compact" alt="andrul01" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrul01&show_icons=true&locale=en&layout=compact" alt="andrul01" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrul01&show_icons=true&locale=en" alt="andrul01" /></p>
