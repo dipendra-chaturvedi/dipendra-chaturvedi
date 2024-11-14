@@ -1,16 +1,17 @@
 <h1>I'm Dipendra Chaturvedi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrul01&label=Profile%20views&color=0e75b6&style=flat" alt="andrul01" /> </p>
 
-
--    Computer Science Student at G H Raisoni Group of Institues in Nagpur
+- Computer Science Student at G H Raisoni Group of Institues in Nagpur
   
-- 🌱 I’m currently learning ** Javascript , React , Nodejs **
+- I’m currently learning ** Javascript , React , Nodejs **
   
-- 🔭 I’m currently working on [Atex - A tech forum](https://github.com/Andrul01/Atex)
+- I’m currently working on [Atex - A tech forum](https://github.com/Andrul01/Atex)
 
-- 👨‍💻 All of my projects are available at [https://andrul01.github.io/myPortfolio/](https://andrul01.github.io/myPortfolio/)
+- All of my projects are available at [https://andrul01.github.io/myPortfolio/](https://andrul01.github.io/myPortfolio/)
 
-- 📫 How to reach me **dipendra2k23@gmail.com**
+- How to reach me **dipendra2k23@gmail.com**
+  
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrul01&show_icons=true&locale=en" alt="andrul01" /></p>
 <h3 align="left">My Skills:</h3>
