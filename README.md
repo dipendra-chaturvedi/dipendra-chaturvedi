@@ -1,27 +1,117 @@
-<h1>I'm Dipendra Chaturvedi</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrul01&label=Profile%20views&color=0e75b6&style=flat" alt="andrul01" /> </p>
+# Hi there, I'm Dipendra Chaturvedi! 👋
 
-- Computer Science Student at G H Raisoni Group of Institues in Nagpur
-  
-- I’m currently learning ** Javascript , React , Nodejs **
-  
-- I’m currently working on [Atex - A tech forum](https://github.com/Andrul01/Atex)
-
-- All of my projects are available at [https://andrul01.github.io/myPortfolio/](https://andrul01.github.io/myPortfolio/)
-
-- How to reach me **dipendra2k23@gmail.com**
-  
-<br>
-<h3 align="left">My Skills:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Tech+Enthusiast;Always+Learning!" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dipendra-chaturvedi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/dipendra-chaturvedi?label=Followers&style=social" alt="GitHub Followers" />
+</p>
+
+---
+
+## 🚀 About Me
+
+**Computer Science Student** at G H Raisoni Group of Institutes, Nagpur  
+**Passionate Full Stack Developer** with a love for creating innovative solutions  
+**Currently Learning:** JavaScript, React, Node.js  
+**Current Project:** [Atex - A Tech Forum](https://github.com/dipendra-chaturvedi/Atex)  
+**Portfolio:** [Visit My Portfolio](https://dipendra-chaturvedi.github.io/myPortfolio/)  
+**Reach Me:** dipendra2k23@gmail.com  
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</p>
+
+### Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
+
+### Backend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+</p>
+
+### Tools & Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dipendra-chaturvedi&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipendra-chaturvedi&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipendra-chaturvedi&theme=radical" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dipendra-chaturvedi&theme=radical&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌟 [Atex - A Tech Forum](https://github.com/dipendra-chaturvedi/Atex)
+A comprehensive tech forum platform built with modern web technologies
+- **Tech Stack:** JavaScript, Node.js, React
+- **Features:** User authentication, real-time discussions, responsive design
+
+<!-- Add more projects here as you develop them -->
+
+---
+
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipendra-chaturvedi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:dipendra2k23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://dipendra-chaturvedi.github.io/myPortfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <!-- Add more social links as needed -->
+</p>
+
+---
+
+## 💡 Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/dipendra-chaturvedi">dipendra-chaturvedi</a></i>
+</div>
