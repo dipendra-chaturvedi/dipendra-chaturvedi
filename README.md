@@ -13,12 +13,7 @@
 
 ## 🚀 About Me
 
-**Computer Science Student** at G H Raisoni Group of Institutes, Nagpur  
-**Passionate Full Stack Developer** with a love for creating innovative solutions  
-**Currently Learning:** JavaScript, React, Node.js  
-**Current Project:** [Atex - A Tech Forum](https://github.com/dipendra-chaturvedi/Atex)  
-**Portfolio:** [Visit My Portfolio](https://dipendra-chaturvedi.github.io/myPortfolio/)  
-**Reach Me:** dipendra2k23@gmail.com  
+I'm a passionate Computer Science student at G H Raisoni Group of Institutes, Nagpur, specializing in full-stack web development. I enjoy building innovative solutions with modern technologies like React, Next.js, and Django, and always excited to collaborate on meaningful projects.
 
 ---
 
